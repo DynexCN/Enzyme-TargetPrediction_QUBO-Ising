@@ -1,6 +1,6 @@
 # Enzyme-TargetPrediction_QUBO-Ising
- Using Binary Quadratic Model (BQM) to predict the optimal transformation from Predecessor to Target Molecule Product using QUBO
+  使用二元二次模型 (BQM) 来预测使用 QUBO 从前体到目标分子产物的最佳转化
 
- **Idea** is provided by: **Andreas Rossos** aka [@zmokuspokus in Discord]
+  **想法**由：**Andreas Rossos** 又名 [@zmokuspokus in Discord] 提供
 
- **Dataset** is provided by: **MetXBioDB Metabolite Biotransformations**
+  **数据集**由：**MetXBioDB代谢物生物转化提供**
